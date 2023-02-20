@@ -178,7 +178,7 @@ const iota = module.exports = {
         sidebarPath: require.resolve('./iota/use/sidebars.ts'),
 
         // General config
-        editUrl: 'https://github.com/iota-wiki/iota-wiki/edit/main/',
+        editUrl: 'https://github.com/nhatpham0709/apix-docs/edit/master',
         remarkPlugins: [
           require('remark-code-import'),
           require('remark-import-partial'),
@@ -195,7 +195,7 @@ const iota = module.exports = {
         sidebarPath: require.resolve('./iota/learn/sidebars.ts'),
 
         // General config
-        editUrl: 'https://github.com/iota-wiki/iota-wiki/edit/main/',
+        editUrl: 'https://github.com/nhatpham0709/apix-docs/edit/master/',
         remarkPlugins: [
           require('remark-code-import'),
           require('remark-import-partial'),
