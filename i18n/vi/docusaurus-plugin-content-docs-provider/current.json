@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.provider.category.Provider": {
+    "message": "Provider",
+    "description": "The label for category Provider in sidebar provider"
+  },
+  "sidebar.provider.category.API": {
+    "message": "API",
+    "description": "The label for category API in sidebar provider"
+  },
+  "sidebar.provider.category.Dataset": {
+    "message": "Dataset",
+    "description": "The label for category Dataset in sidebar provider"
+  },
+  "sidebar.provider.category.Finance": {
+    "message": "Finance",
+    "description": "The label for category Finance in sidebar provider"
+  }
+}

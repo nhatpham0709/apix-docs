@@ -4,10 +4,13 @@ const common = module.exports = {
   url: 'https://wiki.iota.org',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'vi'],
+  },
   favicon: 'img/favicon.ico',
-  trailingSlash: true,
-  organizationName: 'iota-wiki', // Usually your GitHub org/user name.
-  projectName: 'iota-wiki', // Usually your repo name.
+  organizationName: 'apix',
+  projectName: 'apix-docs',
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
     {
@@ -45,166 +48,7 @@ const common = module.exports = {
   staticDirectories: [path.resolve(__dirname, './static')],
 };
 
-const iota = module.exports = {
-  title: 'APIX Wiki',
-  tagline: 'The complete reference for APIX',
-  baseUrl: '/',
-  themeConfig: {
-    announcementBar: {
-      id: 'govern',
-      content:
-        'If you would like to get more involved in the future governance of Shimmer, APIX, and the Assembly network, join the discussions with the community in our <a target="_blank" href="https://govern.iota.org">governance forum</a> 🏛️',
-      backgroundColor: '#5991c7',
-      textColor: '#ffffff',
-      isCloseable: true,
-    },
-    image: 'img/iota-wiki.png',
-    navbar: {
-      hideOnScroll: true,
-      logo: {
-        alt: 'APIX Wiki Logo',
-        src: 'img/logo.svg',
-        srcDark: 'img/logo_dark.svg',
-      },
-      items: [
-        {
-          label: 'Use APIX',
-          to: '/use/wallets/what-is-a-wallet',
-          activeBaseRegex: '^(/[^/]+)?/use/.*',
-        },
-        {
-          label: 'Learn',
-          to: '/learn/about-iota/an-introduction-to-iota',
-          activeBaseRegex:
-            '^(/[^/]+)?/learn/.*|' +
-            '^(/[^/]+)?/APIX-2.0-Research-Specifications/.*|' +
-            '^(/[^/]+)?/goshimmer/.*',
-        },
-      ],
-    },
-    footer: {
-      links: [
-        {
-          title: 'Use',
-          items: [
-            {
-              label: 'Wallets',
-              to: '/use/wallets/what-is-a-wallet',
-            },
-          ],
-        },
-        {
-          title: 'Learn',
-          items: [
-            {
-              label: 'How It Works',
-              to: '/learn/about-iota/an-introduction-to-iota',
-            },
-            {
-              label: 'APIX Token',
-              to: '/learn/iota-token/buying-iota',
-            },
-            {
-              label: 'Research',
-              to: '/learn/research/research-outline',
-            },
-            {
-              label: 'Glossary',
-              to: '/learn/glossary',
-            },
-            {
-              label: 'FAQs',
-              to: '/learn/faqs',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Funding',
-              to: '/community/funding/edf-funding',
-            },
-            {
-              label: 'The Community',
-              to: '/community/the-community/how-to-support',
-            },
-            {
-              label: 'Research',
-              to: '/community/research/research-outline',
-            },
-            {
-              label: 'Contribute To Wiki',
-              to: '/community/contribute-to-wiki/welcome',
-            },
-          ],
-        },
-      ],
-      logo: {
-        alt: 'APIX Logo',
-        src: 'img/footer_logo.svg',
-        href: 'https://www.iota.org',
-      },
-      copyright: `© ${new Date().getFullYear()} APIX <a href="/cookie-policy"> Cookie Policy. </a>`,
-    },
-
-  },
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: false,
-        blog: false,
-        theme: {
-          customCss: require.resolve('./src/iota/css/custom.css'),
-        },
-        sitemap: {
-          changefreq: 'daily',
-          priority: 0.5,
-        },
-        pages: {
-          path: path.resolve(__dirname, './src/iota/pages'),
-        },
-      },
-    ],
-  ],
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'use',
-        path: path.resolve(__dirname, './iota/use'),
-        routeBasePath: 'use',
-        sidebarPath: require.resolve('./iota/use/sidebars.ts'),
-
-        // General config
-        editUrl: 'https://github.com/nhatpham0709/apix-docs/edit/master',
-        remarkPlugins: [
-          require('remark-code-import'),
-          require('remark-import-partial'),
-        ],
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'learn',
-        path: path.resolve(__dirname, './iota/learn'),
-        routeBasePath: 'learn',
-        sidebarPath: require.resolve('./iota/learn/sidebars.ts'),
-
-        // General config
-        editUrl: 'https://github.com/nhatpham0709/apix-docs/edit/master/',
-        remarkPlugins: [
-          require('remark-code-import'),
-          require('remark-import-partial'),
-        ],
-        showLastUpdateTime: true,
-      },
-    ],
-  ],
-};
+const apix = require('./apix/docusaurus.config');
 
 const search = {
   themeConfig: {
@@ -219,6 +63,7 @@ const search = {
     },
   },
 };
+
 const production = {
   themeConfig: {
     matomo: {
@@ -264,7 +109,7 @@ const merge = (...targets) => {
 }
 module.exports = merge(
   common,
-  iota,
+  apix,
   search,
   production
 );

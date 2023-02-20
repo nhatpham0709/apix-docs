@@ -1,0 +1,14 @@
+{
+  "item.label.General": {
+    "message": "General",
+    "description": "Navbar item with label General"
+  },
+  "item.label.Consumer": {
+    "message": "Consumer",
+    "description": "Navbar item with label Consumer"
+  },
+  "item.label.Provider": {
+    "message": "Provider",
+    "description": "Navbar item with label Provider"
+  }
+}
