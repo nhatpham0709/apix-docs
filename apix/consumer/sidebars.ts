@@ -4,12 +4,17 @@ module.exports = {
     {
       type: 'category',
       label: 'Marketplace',
+      link: {
+        type: 'doc',
+        id: 'api/marketplace/general',
+      },
       collapsed: false,
       items: [
         {
           type: 'category',
           label: 'API',
           collapsed: false,
+
           items: ['api/marketplace/general'],
         },
         {
