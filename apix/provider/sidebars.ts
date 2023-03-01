@@ -3,7 +3,7 @@ module.exports = {
     'introduction',
     {
       type: 'category',
-      label: 'Provider',
+      label: 'Product Listing',
       collapsed: false,
       items: [
         {
@@ -11,29 +11,21 @@ module.exports = {
           label: 'API',
           collapsed: false,
           items: [
-            'api/create',
-            'api/manage',
-            'api/dashboard',
+            'product_listing/api/basic_info',
+            'product_listing/api/base_url',
+            'product_listing/api/endpoint',
+            'product_listing/api/documentation',
+            'product_listing/api/pricing',
+            'product_listing/api/public',
           ],
         },
+
         {
           type: 'category',
           label: 'Dataset',
           collapsed: false,
           items: [
-            'dataset/create',
-            'dataset/manage',
-            'dataset/dashboard',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Finance',
-          collapsed: false,
-          items: [
-            'finance/balance',
-            'finance/bank-account',
-            'finance/settings',
+            'product_listing/dataset/create_dataset'
           ],
         },
       ],
