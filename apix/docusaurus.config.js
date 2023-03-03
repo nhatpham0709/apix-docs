@@ -16,7 +16,7 @@ module.exports = {
             items: [
                 {
                     label: 'General',
-                    to: 'general/what-is-apix',
+                    to: 'general/introduction/what-is-apix',
                     activeBaseRegex: '^(/[^/]+)?/general/.*',
                 },
                 {

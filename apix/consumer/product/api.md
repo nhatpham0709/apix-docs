@@ -2,40 +2,40 @@
 title: API
 ---
 
-## Discover APIs
+## Tìm kiếm API
 
-The first thing you will want to do is find an API that works best for your application. Choose **API** from the left-hand navigation bar on the landing page.
+Điều đầu tiên bạn muốn làm là tìm một API hoạt động tốt nhất cho ứng dụng của bạn. Chọn **API** từ thanh điều hướng bên trái trên trang chủ.
 
 <div class="text--center"><img src="/img/screenshot/api_1.png"  width="100%" height="100%"></img></div>
 
-You will be redirected to the listing page that includes all the public APIs in our platform.
+Bạn sẽ được dẫn tới trang listing các sản phẩm API đang có trên sàn
 
 <div class="text--center"><img src="/img/screenshot/api_2.png"  width="100%" height="100%"></img></div>
 
-Once you select API, you are brought to the corresponding API page.
+Sau khi chọn API từ sàn, bạn sẽ được dẫn tới trang API listing tương ứng.
 
 <div class="text--center"><img src="/img/screenshot/api_3.png"  width="100%" height="100%"></img></div>
 
-The **Playground** tab includes most of the basic information needed to get started with the APIs: the endpoints, parameters, and code snippets to help you integrate the API into your code. Our code snippets are available in many different programming languages.
+Tab **Playground** bao gồm các thông tin cơ bản cần thiết để bạn có thể sử dụng API, bao gồm các **Endpoint** tham số đầu vào và phần code mẫu để tích hợp vào hệ thống của bạn. Phần code mẫu hỗ trợ nhiều ngôn ngữ lập trình khác nhau.
 
-You can also find more information about the APIs (if any) in the **Introduction**, **Tutorial**, and **Discussion** tabs.
+Ngoài ra bạn cũng có thể tìm thêm các thông tin về API (nếu có) tại các tab **Giới thiệu, Hướng dẫn** và **Thảo luận**
 
-## Subscription Plans & Pricing
+## Mua gói sử dụng API
 
-Each API will have different subscription plans with different quotas and rate limits; you can choose the plan that suits your needs.
+Mỗi API sẽ có các gói khác nhau, ứng với số lượng quota, rate limit khác nhau, bạn có thể lựa chọn gói phù hợp với nhu cầu sử dụng của mình.
 
 <div class="text--center"><img src="/img/screenshot/api_4.png"  width="100%" height="100%"></img></div>
 
-Most APIs have a free basic plan; you can subscribe to this plan to experience the provider's API before you buy the paid plans.
+Hầu hết các API đều có gói miễn phí, bạn có thể đăng ký sử dụng gói này để trải nghiệm API của nhà cung cấp.
 
-## Test API in browser
+## Sử dụng API trên trình duyệt
 
-**API Key**: After registering an account, you will have only one API Key to use all APIs on the platform. When integrating the API, you will need to include this API Key in the `x-api-key` header of your request.
+**API Key**: Sau khi đăng ký tài khoản, bạn sẽ có một API Key duy nhất dùng để sử dụng các API trên sàn. Khi tích hợp API, bạn sẽ cần gửi kèm API Key này trong header `x-api-key`.
 
-After purchasing a plan, go back to the **Playground** tab to try the API, enter the required parameters, and click the **Execute** button; the result will be displayed directly in the browser in the **Result** tab.
+Sau khi đã mua gói, hãy trở lại tab **Playground** để dùng thử API, nhập các tham số cần thiết, bấm vào nút **Sử dụng**, kết quả sẽ được hiển thị trực tiếp trên trình duyệt.
 
 <div class="text--center"><img src="/img/screenshot/api_5.png"  width="100%" height="100%"></img></div>
 
-In addition, in the header of the returned response, you can also find your remaining quota (header `x-dmp-quota`) and expiry date (header `x-dmp-ttl`, in seconds).
+Ngoài ra, trong phần header của kết quả trả về, bạn cũng có thể tìm thấy số lượng request còn lại của bạn (header `x-dmp-quota`) và thời hạn sử dụng (header `x-dmp-ttl`, tính bằng giây)
 
 <div class="text--center"><img src="/img/screenshot/api_6.png"  width="100%" height="100%"></img></div>

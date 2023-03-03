@@ -1,6 +1,5 @@
 module.exports = {
   general: [
-    'what-is-apix',
     {
       type: 'category',
       label: 'Introduction',

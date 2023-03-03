@@ -1,11 +1,11 @@
 ---
 title: Endpoints
 ---
-After configuring **Base URL** you can set up **Endpoints** for your API. 
+Sau khi đã cấu hình **Base URL** bạn có thể tiến hành cấu hình các Endpoint cho API.
 
 <div class="text--center"><img src="/img/screenshot/listing_api_endpoint_1.png"  width="100%" height="100%"></img></div>
 
-**APIX** allows you to configure different HTTP methods like **GET, POST, PUT, PATCH, DELETE**. The Endpoint path combined with the **Base URL** configured above forms an API address. With the example above, you can add the Endpoint path as:
+**APIX** cho phép bạn cấu hình các phương thức HTTP khác nhau như **GET, POST, PUT, PATCH, DELETE**. Đường dẫn Điểm cuối kết hợp với **Base URLở** được cấu hình ở trên tạo thành một địa chỉ API. Với ví dụ trên, bạn có thể thêm đường dẫn Endpoint là:
 
 ```
 /ep1/read
@@ -13,16 +13,16 @@ After configuring **Base URL** you can set up **Endpoints** for your API.
 /ep2/read
 ```
 
-In addition, you can use `{curly braces}` to indicate path parameters if needed. e.g., `/test/{id}`
+Ngoài ra, bạn có thể sử dụng {dấu ngoặc nhọn} để chỉ ra các tham số đường dẫn nếu cần. ví dụ: /test/{id}
 
-Next is the header and parameter configuration section. In addition to the **query** and **body**, **APIX** allows you to configure **secret headers**, which are sent to your API every time a user makes a request. These secret headers will be hidden from the user side.
+Tiếp theo là phần cấu hình header và các tham số. Ngoài **query** và **body**, **APIX** cho phép bạn cấu hình những header bí mật, được gửi tới API của bạn mỗi khi người dụng tạo một request tới. Những header bí mật này sẽ được ẩn đi ở phía người dùng.
 
 <div class="text--center"><img src="/img/screenshot/listing_api_endpoint_2.png"  width="100%" height="100%"></img></div>
 
-After configuring the **Endpoint**, you can see the creation progress
+Sau khi cấu hình xong **Endpoint**, bạn có thể thấy tiến trình tạo
 
 <div class="text--center"><img src="/img/screenshot/listing_api_endpoint_3.png"  width="100%" height="100%"></img></div>
 
-you can click the refresh button as shown below to update your Endpoint creation progress
+bạn có thể bấm vào nút làm tươi như hình dưới để cập nhật tiến trình tạo **Endpoint** của mình
 
 <div class="text--center"><img src="/img/screenshot/listing_api_endpoint_4.png"  width="100%" height="100%"></img></div>

@@ -1,32 +1,34 @@
 ---
-title: Plan and Pricing
+title: Cấu hình gói
 ---
 
-## Pre-paid Plan ##
-With a prepaid plan, users need to pay an amount per period (can be 1 month, 3 months, 12 months) to be able to use the API. **APIX** allows you to configure up to 4 of these prepaid plans.
+## Gói trả trước ##
+Với gói trả trước, người dùng cần trả một số tiền theo chu kỳ (có thể là 1 tháng, 3 tháng, 12 tháng) để có thể sử dụng API. **APIX** cho phép bạn cấu hình tối đa 4 trong số các gói trả trước này.
 
 <div class="text--center"><img src="/img/screenshot/listing_api_pricing_1.png"  width="100%" height="100%"></img></div>
 
-You can configure the price, throttle limit, quota limit, and limit type for each usage plan.
+Với mỗi gói, bạn có thể cấu hình giá gói cùng các giới hạn về rate limit và quota
 
 <div class="text--center"><img src="/img/screenshot/listing_api_pricing_2.png"  width="100%" height="100%"></img></div>
 
-APIX currently supports two types of limits: hard limit and soft limit
+APIX hiện hỗ trợ hai loại giới hạn: giới hạn cứng và giới hạn mềm
 
-To prevent developers from making any overages, you can set a hard limit. If a hard limit is in place, developers will be capped at the quota limit and will be blocked from making more calls once the limit is reached.
+Để ngăn các nhà phát triển thực hiện bất kỳ sự vượt quá nào, bạn có thể đặt giới hạn cứng. Nếu có giới hạn cứng, nhà phát triển sẽ bị giới hạn ở giới hạn hạn ngạch và sẽ bị chặn thực hiện thêm cuộc gọi sau khi đạt đến giới hạn.
 
-Overage fees allow developers to continue using an API once a quota limit is reached and give them time to upgrade their plan based on projected future use while ensuring API providers get paid for higher usage.
+Phí vượt mức cho phép nhà phát triển tiếp tục sử dụng API sau khi đạt đến giới hạn định mức và cho họ thời gian để nâng cấp gói dựa trên mức sử dụng dự kiến ​​trong tương lai, đồng thời đảm bảo nhà cung cấp API được trả tiền cho mức sử dụng cao hơn.
 
-## Pay per Request Plan ##
-Sometimes you may have consumers with small volumes, and their requests may be smaller than your basic plan, so you need to use the Pay per Request plan. In this plan, you will set a price for each request the consumer makes, and the consumer pays as they go.
+## Gói Trả theo request ##
 
-In **Pricing** tab, choose **Advance** and you will see Pay per Request plan.
+Đôi khi, bạn có thể có người tiêu dùng với khối lượng nhỏ và request của họ có thể nhỏ hơn gói cơ bản của bạn, vì vậy bạn cần sử dụng gói Trả theo request. Trong kế hoạch này, bạn sẽ đặt giá cho mỗi request mà người tiêu dùng đưa ra và người tiêu dùng sẽ trả tiền khi họ thực hiện.
+
+Trong tab **Giá**, hãy chọn **Nâng cao** và bạn sẽ thấy gói Trả theo request.
 
 <div class="text--center"><img src="/img/screenshot/listing_api_pricing_3.png"  width="100%" height="100%"></img></div>
 
-You can configure throttle limit and price of a single request.
+Bạn có thể định cấu hình throttle limit và giá của một request.
 
 <div class="text--center"><img src="/img/screenshot/listing_api_pricing_4.png"  width="100%" height="100%"></img></div>
 
-## Private plan ##
+## Gói riêng tư ##
+
 COMING SOON

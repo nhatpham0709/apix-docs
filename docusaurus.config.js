@@ -73,15 +73,7 @@ const search = {
 };
 
 const production = {
-  themeConfig: {
-    matomo: {
-      matomoUrl: 'https://matomo.iota-community.org/',
-      siteId: '13',
-    },
-  },
   plugins: [
-    path.resolve(__dirname, 'plugins', 'cookiebot'),
-    path.resolve(__dirname, 'plugins', 'matomo'),
     [
       '@docusaurus/plugin-google-gtag',
       {

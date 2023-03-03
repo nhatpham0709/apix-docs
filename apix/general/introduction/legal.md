@@ -1,124 +1,143 @@
 ---
-title: Terms of Services
+title: Điều khoản dịch vụ
 ---
 
-## Welcome to Apix ##
-These terms of service (these “Terms”) apply to the API marketplace/network and other products and services (collectively, the “Service”) provided by Apix via apix.vn.
+## Chào mừng bạn đến với Apix ##
 
-By registering to use the Service, accessing the Service or providing access to any APIs via the Service, you agree and acknowledge that you have read all of the terms and conditions of these Terms, you understand all of the terms and conditions of these Terms, and you agree to be legally bound by all of the terms and conditions of these Terms.
+Các điều khoản dịch vụ này (các “Điều khoản” này) áp dụng cho thị trường/mạng API cũng như các sản phẩm và dịch vụ khác (gọi chung là “Dịch vụ”) do Apix cung cấp qua apix.vn.
 
-These Terms apply to individuals and entities that provide access to APIs via the Service (“API Providers”) and individuals and entities that obtain access to APIs via the Service (“API Consumers”). Unless otherwise specified, “you” refers to both API Providers and API Consumers.
+Bằng cách đăng ký sử dụng Dịch vụ, truy cập Dịch vụ hoặc cung cấp quyền truy cập vào bất kỳ API nào thông qua Dịch vụ, bạn đồng ý và thừa nhận rằng bạn đã đọc tất cả các điều khoản và điều kiện của các Điều khoản này, bạn hiểu tất cả các điều khoản và điều kiện của các Điều khoản này, và bạn đồng ý bị ràng buộc về mặt pháp lý bởi tất cả các điều khoản và điều kiện của các Điều khoản này.
 
-The “Effective Date” of these Terms is the date you first access the Service.
+Các Điều khoản này áp dụng cho các cá nhân và tổ chức cung cấp quyền truy cập vào API thông qua Dịch vụ (“Nhà cung cấp API”) cũng như các cá nhân và tổ chức có quyền truy cập vào API thông qua Dịch vụ (“Người tiêu dùng API”). Trừ khi có quy định khác, “bạn” đề cập đến cả Nhà cung cấp API và Người tiêu dùng API.
 
-Apix reserves the right to change or modify any of the terms and conditions contained in these Terms (or any policy or guideline of Apix) at any time and in its sole discretion by providing notice that these Terms have been modified. Such notice may be provided by sending an email, posting a notice on the Site, posting the revised Terms on the Site and revising the date at the top of these Terms, or such other form of notice as determined by Apix. Any changes or modifications will be effective 7 days after providing notice that these Terms have been modified (the “Notice Period”). Your continued use of the Service following the Notice Period will constitute your acceptance of such changes or modifications. You are advised to review these Terms whenever you access the Service and at least every 30 days to make sure that you understand the terms and conditions that will apply to your use of the Service.
+“Ngày có hiệu lực” của các Điều khoản này là ngày bạn truy cập Dịch vụ lần đầu tiên.
 
-# PRIVACY #
-For information about how we collect, use and share information about users of the Service, please see our Privacy Policy.
+Apix có quyền thay đổi hoặc sửa đổi bất kỳ điều khoản và điều kiện nào trong các Điều khoản này (hoặc bất kỳ chính sách hoặc hướng dẫn nào của Apix) vào bất kỳ lúc nào và theo quyết định riêng của mình bằng cách đưa ra thông báo rằng các Điều khoản này đã được sửa đổi. Thông báo đó có thể được cung cấp bằng cách gửi email, đăng thông báo trên Trang web, đăng Điều khoản sửa đổi trên Trang web và ngày sửa đổi ở đầu các Điều khoản này hoặc hình thức thông báo khác do Apix xác định. Mọi thay đổi hoặc sửa đổi sẽ có hiệu lực sau 7 ngày kể từ khi đưa ra thông báo rằng các Điều khoản này đã được sửa đổi (“Thời hạn thông báo”). Việc bạn tiếp tục sử dụng Dịch vụ sau Thời hạn Thông báo sẽ cấu thành việc bạn chấp nhận những thay đổi hoặc sửa đổi đó. Bạn nên xem lại các Điều khoản này bất cứ khi nào bạn truy cập Dịch vụ và ít nhất 30 ngày một lần để đảm bảo rằng bạn hiểu các điều khoản và điều kiện sẽ áp dụng cho việc bạn sử dụng Dịch vụ.
 
-# SERVICE AND REGISTRATION #
-## Service ##
-Apix’s API marketplace/network connects API Providers and API Consumers. The Service enables API Providers to list the APIs they offer for purchase by API Consumers. Each API offering includes a description of the API, its associated price, and other related terms and conditions. API Consumers may purchase the right to use an API on an individual basis or as part of a subscription plan.
+# SỰ RIÊNG TƯ  #
 
-Apix grants to you a non-exclusive, non-transferable, non-sublicensable, revocable, and limited license to access and use the Service subject to the terms and conditions set forth in these Terms.
+Để biết thông tin về cách chúng tôi thu thập, sử dụng và chia sẻ thông tin về người dùng Dịch vụ, vui lòng xem Chính sách quyền riêng tư của chúng tôi.
+# DỊCH VỤ & ĐĂNG KÝ #
 
-## Registration ##
-In order to access the Service, API Providers and API Consumers must register with Apix by completing the registration forms provided via the Site. You agree to (a) provide accurate, current, and complete information as may be prompted by the registration forms via the Site (“Registration Data”), (b) maintain the security of your Apix account password, (c) maintain and promptly update the Registration Data, and any other information you provide to Apix, to keep it accurate, current, and complete and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to Apix.
+## Dịch vụ ##
 
-You are responsible for safeguarding the passwords you use to access the Service and agree to be fully responsible for activities or transactions that relate to your Apix account or password. You must notify Apix immediately if you learn of an unauthorized use of your Apix account or password.
+Thị trường/mạng API của Apix kết nối Nhà cung cấp API và Người tiêu dùng API. Dịch vụ cho phép Nhà cung cấp API  liệt kê các API mà họ cung cấp để Người tiêu dùng API mua. Mỗi ưu đãi API bao gồm một mô tả về API, giá liên quan của API cũng như các điều khoản và điều kiện liên quan khác. Người tiêu dùng API có thể mua quyền sử dụng API trên cơ sở cá nhân hoặc là một phần của gói đăng ký.
 
-## API Rights — Between API Providers and API Consumers (not APIX) ##
+Apix cấp cho bạn giấy phép không độc quyền, không thể chuyển nhượng, không thể cấp phép lại, có thể hủy bỏ và có giới hạn để truy cập và sử dụng Dịch vụ theo các điều khoản và điều kiện được quy định trong các Điều khoản này.
 
-** Apix provides the marketplace, but the terms and conditions applicable to the APIs (including, the use of the APIs) are between API Providers and API Consumers (not Apix). **
+## Sự đăng ký ##
 
-With respect to each API, API Consumers and the API Provider who listed such API via the Service acknowledge and agree that the terms and conditions applicable to the use of and other rights with respect to such API by each such API Consumer are solely between each such API Consumer and such API Provider, and not with Apix. Each API Provider (not Apix) is responsible for all support and all claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement).
+Để truy cập Dịch vụ, Nhà cung cấp API và Người tiêu dùng API phải đăng ký với Apix bằng cách hoàn thành các biểu mẫu đăng ký được cung cấp qua Trang web. Bạn đồng ý (a) cung cấp thông tin chính xác, hiện tại và đầy đủ có thể được nhắc bởi biểu mẫu đăng ký qua Trang web (“Dữ liệu đăng ký”), (b) duy trì tính bảo mật của mật khẩu tài khoản Apix của bạn, (c) duy trì và kịp thời cập nhật Dữ liệu đăng ký và bất kỳ thông tin nào khác mà bạn cung cấp cho Apix để giữ cho thông tin chính xác, cập nhật và đầy đủ và (d) chấp nhận mọi rủi ro khi truy cập trái phép vào Dữ liệu đăng ký và bất kỳ thông tin nào khác mà bạn cung cấp cho Apix.
 
-Apix reserves the right, but does not have the obligation, to review, screen, or monitor any links to any APIs or any API Content/Terms (as defined below) at any time and for any reason without notice. API Providers and API Consumers acknowledge and agree that Apix may remove any API or any API Content/Terms at Apix’s sole discretion.
+Bạn chịu trách nhiệm bảo vệ mật khẩu bạn sử dụng để truy cập Dịch vụ và đồng ý chịu hoàn toàn trách nhiệm đối với các hoạt động hoặc giao dịch liên quan đến tài khoản hoặc mật khẩu Apix của bạn. Bạn phải thông báo cho Apix ngay lập tức nếu bạn biết về việc sử dụng trái phép tài khoản hoặc mật khẩu Apix của mình.
 
-## API Provider ##
-### API Provider – Grants and Obligations ###
-API Providers may APIs via the Service by completing Apix’s listing form.
+## Quyền API  — Giữa Nhà cung cấp API và Người tiêu dùng API (không phải APIX) ##
 
-For each API, API Providers must provide the URLs applicable to such API on the API Provider’s websites (“API Provider Sites”), a brief description of the API, the API pricing parameters (free use, unique object pricing, or subscription), any overage fees and any other applicable terms and conditions (e.g., service level standards) (collectively, “API Content/Terms”).
+**Apix cung cấp thị trường, nhưng các điều khoản và điều kiện áp dụng cho API (bao gồm cả việc sử dụng API) là giữa Nhà cung cấp API và Người tiêu dùng API (không phải Apix).**
 
-API Provider grants Apix the right to provide the APIs and the API Content/Terms provided by API Provider (or a party on its behalf) via the Service. Further, API Provider consents to Apix’s use of its name and, if applicable, API Provider’s company’s name and logo on the Site and our publicly-available online and printed materials, identifying API Provider (and, if applicable, API Provider’s company) as part of the Apix API network.
+Đối với từng API, Người tiêu dùng API và Nhà cung cấp API đã liệt kê API đó thông qua Dịch vụ thừa nhận và đồng ý rằng các điều khoản và điều kiện áp dụng cho việc sử dụng và các quyền khác đối với API đó bởi mỗi Người tiêu dùng API đó là duy nhất giữa mỗi người đó. Người tiêu dùng API và Nhà cung cấp API đó chứ không phải với Apix. Mỗi Nhà cung cấp API (không phải Apix) chịu trách nhiệm về mọi hỗ trợ và mọi khiếu nại liên quan (ví dụ: trách nhiệm pháp lý về sản phẩm, tuân thủ pháp luật hoặc vi phạm quyền sở hữu trí tuệ).
 
-API Provider, not Apix, is responsible for monitoring and enforcing the API Content/Terms applicable to each API to which it grants an API Consumer access. API Provider acknowledges and agrees that Apix will not be liable for any actual or alleged breach of the terms and conditions governing the use of APIs by API Consumer (or any damages arising from or related to such actual or alleged breach).
+Apix bảo lưu quyền, nhưng không có nghĩa vụ, xem xét, sàng lọc hoặc theo dõi mọi liên kết đến bất kỳ API nào hoặc bất kỳ Nội dung/Điều khoản API nào (như được định nghĩa bên dưới) bất kỳ lúc nào và vì bất kỳ lý do gì mà không cần thông báo. Nhà cung cấp API và Người tiêu dùng API thừa nhận và đồng ý rằng Apix có thể xóa mọi API hoặc mọi Nội dung/Điều khoản API theo quyết định riêng của Apix.
 
-API Provider represents and warrants that (a) all representations and warranties made by API Provider with respect to the APIs it lists via the Service are true and accurate; and (b) it owns (or has full rights to) to market, promote, offer to sell, sell, grants access to, and distribute the APIs it lists via the Service and all API Content/Terms posted to the Service.
+## Nhà cung cấp API ##
 
-In the event Apix provides API Consumer email addresses or other contract information to an API Provider, such API Provider may use such email addresses or other contact information solely to provide API Provider’s APIs to API Consumer in connection with the Service. In no event may API Provider bypass Apix’s billing, management, marketplace or Service and/or use any information obtained via Apix, the Service or the Site (including, but not limited to, any API Consumer email addresses or other contract information) for any purpose other than expressly authorized in these Terms. For example, API Provider may not use any API Consumer email addresses or other contract information to solicit API Consumers or other users to leave the Service or obtain APIs directly via API Providers or any non-Apix source.
+### Nhà cung cấp API – Trợ cấp và Nghĩa vụ ###
 
-### API Provider – Payments ###
-Apix collects subscription fees and other payments associated with API Consumers’ access and use of APIs provide by API Providers via the Service (“API Fees”). Following Apix’s receipt of the API Fees applicable to an API listed on the Service by an API Provider, Apix will passed on such amount to the applicable API Provider less a Apix transaction fee. API Providers are paid on a monthly basis in arrears via the Service. Notwithstanding any terms to the contrary in these Terms, API Providers acknowledge and agree that Apix will use reasonable effort to collect API Fees, but Apix is not responsible for any failure to collect API Fees (including, but not limited to, any damages that arise out of, result from, are attributable to or are in any way incidental to such failure).
+Nhà cung cấp API có thể thông qua Dịch vụ bằng cách hoàn thành biểu mẫu danh sách của Apix.
 
-Apix, at its sole discretion, may modify its transaction fee with no less than 7 days advance notice.
+Đối với mỗi API, Nhà cung cấp API phải cung cấp các URL áp dụng cho API đó trên trang web của Nhà cung cấp API (“Trang web của Nhà cung cấp API”), mô tả ngắn gọn về API, thông số định giá API (sử dụng miễn phí, định giá đối tượng duy nhất hoặc đăng ký), bất kỳ khoản phí dư thừa nào cũng như mọi điều khoản và điều kiện hiện hành khác (ví dụ: tiêu chuẩn cấp độ dịch vụ) (gọi chung là “Nội dung/Điều khoản API”).
 
-## API Consumer ##
-### API Consumer – Subscription Packages ###
-API Consumer may browse listed APIs and subscribe to access and use APIs pursuant to one of the Apix API subscription plans selected by API Consumer. Depending on a particular API offering, API Consumer may also be able to arrange custom pricing and service directly with an API Provider.
+Nhà cung cấp API cấp cho Apix quyền cung cấp API và Nội dung/Điều khoản API do Nhà cung cấp API (hoặc một bên thay mặt) cung cấp thông qua Dịch vụ. Hơn nữa, Nhà cung cấp API đồng ý cho phép Apix sử dụng tên của mình và, nếu có, tên và logo của công ty Nhà cung cấp API trên Trang web cũng như các tài liệu in và trực tuyến có sẵn công khai của chúng tôi, xác định Nhà cung cấp API (và, nếu có, công ty của Nhà cung cấp API) như một phần của mạng API Apix.
 
-Unless otherwise expressly set forth in the Apix subscription plan selected by an API Consumer, Apix subscription plans will automatically renew for additional periods equivalent in length to the initial Apix subscription period selected by such API Consumer. Each API Consumer may change the type of Apix subscription plan selected or terminate the Apix subscription plan according to the terms and conditions of such subscription plan.
+Nhà cung cấp API, không phải Apix, chịu trách nhiệm giám sát và thực thi Nội dung/Điều khoản API áp dụng cho từng API mà họ cấp cho Người tiêu dùng API quyền truy cập. Nhà cung cấp API thừa nhận và đồng ý rằng Apix sẽ không chịu trách nhiệm pháp lý đối với bất kỳ vi phạm thực tế hoặc bị cáo buộc nào đối với các điều khoản và điều kiện chi phối việc sử dụng API của Người tiêu dùng API (hoặc bất kỳ thiệt hại nào phát sinh từ hoặc liên quan đến vi phạm thực tế hoặc bị cáo buộc đó).
 
-### API Consumer – Fees ###
-The pricing terms for each API Consumer’s access and use of APIs are set forth in the Apix subscription plan selected by such API Consumer (unless the API is not being purchased pursuant to a Apix subscription plan). All payments must be made in VND by credit or debit card via an authorized Apix payment processor.
+Nhà cung cấp API tuyên bố và đảm bảo rằng (a) tất cả các tuyên bố và bảo đảm do Nhà cung cấp API đưa ra đối với các API mà Nhà cung cấp đó liệt kê qua Dịch vụ là đúng sự thật và chính xác; và (b) nó sở hữu (hoặc có toàn quyền) tiếp thị, quảng bá, chào bán, bán, cấp quyền truy cập và phân phối các API mà nó liệt kê qua Dịch vụ và tất cả Nội dung/Điều khoản API được đăng lên Dịch vụ.
 
-## User Content ##
-Apix reserves the right, but does not have the obligation, to remove, screen, or edit any content, links, comments or materials posted or stored on the Service, including API Content/Terms (collectively, “User Content”) at any time and for any reason without notice. You will not (and will not allow or authorize any third-party to) post, upload to, transmit, distribute, store, create, solicit, disclose, or otherwise publish through the Service any User Content that is restricted by these Terms.
+Trong trường hợp Apix cung cấp địa chỉ email của Người tiêu dùng API hoặc thông tin hợp đồng khác cho Nhà cung cấp API, Nhà cung cấp API đó chỉ có thể sử dụng địa chỉ email đó hoặc thông tin liên hệ khác để cung cấp API của Nhà cung cấp API cho Người tiêu dùng API liên quan đến Dịch vụ. Trong mọi trường hợp, Nhà cung cấp API không được bỏ qua việc thanh toán, quản lý, thị trường hoặc Dịch vụ của Apix và/hoặc sử dụng bất kỳ thông tin nào thu được qua Apix, Dịch vụ hoặc Trang web (bao gồm nhưng không giới hạn ở mọi địa chỉ email của Người tiêu dùng API hoặc thông tin hợp đồng khác) cho bất kỳ mục đích khác với mục đích được cho phép rõ ràng trong các Điều khoản này. Ví dụ: Nhà cung cấp API không được sử dụng bất kỳ địa chỉ email nào của Người tiêu dùng API hoặc thông tin hợp đồng khác để lôi kéo Người tiêu dùng API hoặc những người dùng khác rời khỏi Dịch vụ hoặc lấy API trực tiếp thông qua Nhà cung cấp API hoặc bất kỳ nguồn nào không phải của Apix.
 
-## Restrictions ##
-Except as expressly authorized by these Terms, you may not:
-- Modify, disclose, alter, translate, or create derivative works the Service (or any components thereof);
-- License, sublicense, resell, distribute, lease, rent, lend, transfer, assign, or otherwise dispose of the Service (or any components thereof);
-- Disassemble, decompile, or reverse engineer the software components of the Service;
-- Use the Service to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights;
-- Use the Service to store or transmit any viruses, software routines or other code designed to permit unauthorized access, disable, erase, or otherwise harm software, hardware, or data, or to perform any other harmful actions;
-- Copy, frame, or mirror any part or content of the Service;
-- Build a competitive product or service, or copy any features or functions of the Service;
-- Interfere with or disrupt the integrity or performance of the Service;
-- Attempt to gain unauthorized access to the Service or their related systems or networks;
-- Remove, alter, or obscure any proprietary notices in or on the Service including copyright notices;
-- Cause or permit any third-party to do any of the foregoing; or
-- Interfere in any manner with the enjoyment of the Service of any other user.
+### Nhà cung cấp API – Thanh toán ###
 
-## General Grant and Ownership ##
-Unless otherwise expressly indicated in these Terms, (a) all user profiles and user contact information, and (b) all information, materials, and content of the Service, including text, graphics, data, formatting, graphs, designs, HTML, look and feel, photographs, music, sounds, images, software, videos, designs, typefaces, source and object code, format, queries, algorithms, and other content (collectively, “Apix Materials”) are exclusively owned by Apix or are used with permission. You may not use or disclose any of the Apix Materials without Apix’s express prior written consent.
+Apix thu phí đăng ký và các khoản thanh toán khác liên quan đến quyền truy cập và sử dụng API của Người tiêu dùng API do Nhà cung cấp API cung cấp thông qua Dịch vụ (“Phí API”). Sau khi Apix nhận được Phí API áp dụng cho API được liệt kê trên Dịch vụ bởi Nhà cung cấp API, Apix sẽ chuyển số tiền đó cho Nhà cung cấp API hiện hành trừ đi phí giao dịch Apix. Nhà cung cấp API được trả nợ hàng tháng thông qua Dịch vụ. Bất kể có bất kỳ điều khoản nào trái ngược trong các Điều khoản này, Nhà cung cấp API thừa nhận và đồng ý rằng Apix sẽ nỗ lực hợp lý để thu Phí API, nhưng Apix không chịu trách nhiệm về bất kỳ lỗi nào trong việc thu Phí API (bao gồm, nhưng không giới hạn ở bất kỳ thiệt hại nào phát sinh ngoài kết quả được quy cho hoặc là ngẫu nhiên theo bất kỳ cách nào đối với sự thất bại đó).
 
-When you post, link, or otherwise make available User Content to the Service, you grant Apix a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content throughout the world in any manner or media on or off the Site. Apix reserves all rights not expressly set forth in these Terms.
+Apix, theo quyết định riêng của mình, có thể sửa đổi phí giao dịch của mình với thông báo trước không dưới 7 ngày.
 
-# COPYRIGHT POLICY #
-Apix users may report content that appears on/via the Site or Service to Apix that he/she thinks violates these Terms, and Apix may remove such content, suspend or terminate the account of the user who made posted such content and/or take additional action to enforce these Terms against such user.
+## Người tiêu dùng API ##
 
-# FEEDBACK #
-Any suggestions, comments, or other feedback provided by you to Apix with respect to the Service or Apix (collectively, “Feedback”) will constitute confidential information of Apix. Apix will be free to use, disclose, reproduce, license, and otherwise distribute and exploit the Feedback provided to it as it sees fit, entirely without obligation or restriction of any kind, on account of intellectual property rights or otherwise.
+### Người tiêu dùng API – Gói đăng ký ###
 
-# LINKS #
-You are granted a limited, non-exclusive right to create a text hyperlink to the Service for noncommercial purposes, provided such link does not portray Apix or any of its products and services in a false, misleading, derogatory, or defamatory manner and that the linking site does not contain any material that is offensive, illegal, harassing, or otherwise objectionable. This limited right may be revoked at any time. Apix makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature, or reliability of third-party sites accessible by link from the Service or Site. Apix provides these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by Apix of the corresponding site or any information contained in (or made available via) that site. When you leave the Site, Apix’s terms and policies no longer govern. You should review the applicable terms and policies, including privacy and data-gathering practices, of any site to which you navigate from the Site.
+Người tiêu dùng API có thể duyệt qua các API được liệt kê và đăng ký để truy cập và sử dụng API theo một trong các gói đăng ký API Apix do Người tiêu dùng API lựa chọn. Tùy thuộc vào việc cung cấp API cụ thể, Người tiêu dùng API cũng có thể sắp xếp giá cả và dịch vụ tùy chỉnh trực tiếp với Nhà cung cấp API.
 
-# TRADEMARKS #
-Apix’s name, trademarks, logos, and any other Apix product, service name, or slogan included in the Service are property of Apix and may not be copied, imitated, or used (in whole or in part) without Apix’s prior written consent. The look and feel of the Service and the Site, including all custom graphics, button icons, and scripts constitute service marks, trademarks, or trade dress of Apix and may not be copied, imitated, or used (in whole or in part) without Apix’s prior written consent. All other trademarks, registered trademarks, product names, and company names or logos mentioned in the Service (“Third-Party Trademarks”) are the property of their respective owners, and the use of such Third-Party Trademarks inures to the benefit of each owner. The use of such Third-Party Trademarks is intended to denote interoperability and does not constitute an affiliation by Apix and its licensors with such company or an endorsement or approval by such company of Apix or its licensors or their respective products or services.
+Trừ khi có quy định rõ ràng khác trong gói đăng ký Apix do Người tiêu dùng API chọn, các gói đăng ký Apix sẽ tự động gia hạn thêm khoảng thời gian tương đương với khoảng thời gian đăng ký Apix ban đầu do Người tiêu dùng API đó chọn. Mỗi Người tiêu dùng API có thể thay đổi loại gói đăng ký Apix đã chọn hoặc chấm dứt gói đăng ký Apix theo các điều khoản và điều kiện của gói đăng ký đó.
 
-# SUSPENSION OR TERMINATION #
-Apix may, at its sole discretion, suspend or terminate your license to access or use the Service at any time and for any reason without notice. You must stop accessing or using the Service immediately if Apix suspends or terminates your license to access or use the Service. Apix reserves the right, but does not undertake any duty, to take appropriate legal action including the pursuit of civil, criminal, or injunctive redress against you for continuing to use the Service during suspension or after termination. Apix may recover its reasonable attorneys’ fees and court costs from you for such actions. These Terms will remain enforceable against you while your license to access or use the Service is suspended and after it is terminated. Except for the license granted to you to access and use the Service and all payment terms, all of the terms, conditions, and restrictions set forth in these Terms will survive the termination of these Terms.
+### Người tiêu dùng API – Phí ###
 
-API Providers and API Consumers acknowledge and agree that Apix may remove any API or any API Content/Terms at Apix’s sole discretion.
+Các điều khoản về giá đối với quyền truy cập và sử dụng API của mỗi Người tiêu dùng API được quy định trong gói đăng ký Apix do Người tiêu dùng API đó chọn (trừ khi API không được mua theo gói đăng ký Apix). Tất cả các khoản thanh toán phải được thực hiện bằng VND bằng thẻ tín dụng hoặc thẻ ghi nợ thông qua bộ xử lý thanh toán Apix được ủy quyền.
 
-API Consumer may terminate its subscription plan at any time by selecting Unsubscribe from the applicable API plan page. NO REFUNDS WILL BE ISSUED.
+## Nội dung người dùng ##
 
-# DISCLAIMER #
-YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. APIX DISCLAIMS ALL WARRANTIES AND REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THESE TERMS, THE SERVICE, ANY OF THE APIS PROVIDED VIA THE SERVICE, ANY API CONTENT/TERMS, ANY USER CONTENT, THE SITE (INCLUDING ANY INFORMATION AND CONTENT MADE AVAILABLE VIA THE SITE AND THE APIX MATERIALS), THIRD-PARTY INFRASTRUCTURE (AS DEFINED BELOW) AND THIRD-PARTY TRADEMARKS, WHETHER ALLEGED TO ARISE BY OPERATION OF LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, BY COURSE OF DEALING OR OTHERWISE, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PURPOSE, NON-INFRINGEMENT, AND CONDITION OF TITLE.
+Apix bảo lưu quyền, nhưng không có nghĩa vụ, xóa, sàng lọc hoặc chỉnh sửa mọi nội dung, liên kết, nhận xét hoặc tài liệu được đăng hoặc lưu trữ trên Dịch vụ, bao gồm Nội dung/Điều khoản API (gọi chung là “Nội dung của người dùng”) bất kỳ lúc nào và vì bất kỳ lý do gì mà không cần báo trước. Bạn sẽ không (và sẽ không cho phép hoặc ủy quyền cho bất kỳ bên thứ ba nào) đăng, tải lên, truyền, phân phối, lưu trữ, tạo, thu hút, tiết lộ hoặc xuất bản thông qua Dịch vụ bất kỳ Nội dung Người dùng nào bị hạn chế bởi các Điều khoản này.
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, APIX DOES NOT WARRANT, AND DISCLAIMS ALL LIABILITY FOR (A) THE COMPLETENESS, ACCURACY, AVAILABILITY, TIMELINESS, SECURITY, OR RELIABILITY OF THE SERVICE, ANY OF THE APIS PROVIDED VIA THE SERVICE, ANY USER CONTENT, THE SITE (INCLUDING ANY INFORMATION OR CONTENT MADE AVAILABLE VIA THE SITE), OR THIRD-PARTY TRADEMARKS; (B) ANY HARM TO YOUR COMPUTER SYSTEM, LOSS OF DATA, OR OTHER HARM THAT RESULTS FROM YOUR ACCESS TO OR USE OF THE SERVICE AND ANY API MADE AVAILABLE VIA THE SERVICE; (C) THE DELETION OF, OR THE FAILURE TO STORE OR TRANSMIT, ANY USER CONTENT AND OTHER COMMUNICATIONS MAINTAINED BY THE SERVICE; AND (D) WHETHER THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
+## Những hạn chế ##
 
-# MISCELLANEOUS #
-## Electronic Communications ##
-By using the Service, you agree that we may communicate with you electronically regarding your use of the Service and that any notices, agreements, disclosures or other communications that we send to you electronically will satisfy any legal communication requirements, including that the communications be in writing. To withdraw your consent from receiving electronic notice, please notify us at support@apix.vn
+Trừ khi được cho phép rõ ràng bởi các Điều khoản này, bạn không được:
 
-## Severability ##
-If any provision of these Terms is invalid, illegal, or incapable of being enforced by any rule of law or public policy, all other provisions of these Terms will nonetheless remain in full force and effect so long as the economic and legal substance of the transactions contemplated by these Terms is not affected in any manner adverse to any party. Upon such determination that any provision is invalid, illegal, or incapable of being enforced, the parties will negotiate in good faith to modify these Terms so as to effect the original intent of the parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled.
+- Sửa đổi, tiết lộ, thay đổi, dịch hoặc tạo các sản phẩm phái sinh của Dịch vụ (hoặc bất kỳ thành phần nào của Dịch vụ);
+- Cấp phép, cấp phép lại, bán lại, phân phối, cho thuê, thuê, cho mượn, chuyển nhượng, chuyển nhượng hoặc xử lý Dịch vụ (hoặc bất kỳ thành phần nào của Dịch vụ);
+- Tháo rời, biên dịch ngược hoặc thiết kế đảo ngược các thành phần phần mềm của Dịch vụ;
+- Sử dụng Dịch vụ để lưu trữ hoặc truyền tải tài liệu vi phạm, bôi nhọ hoặc bất hợp pháp hoặc gây hiểu lầm, hoặc để lưu trữ hoặc truyền tải tài liệu vi phạm quyền riêng tư của bên thứ ba;
+- Sử dụng Dịch vụ để lưu trữ hoặc truyền bất kỳ vi-rút, quy trình phần mềm hoặc mã nào khác được thiết kế để cho phép truy cập trái phép, vô hiệu hóa, xóa hoặc gây hại cho phần mềm, phần cứng hoặc dữ liệu hoặc để thực hiện bất kỳ hành động gây hại nào khác;
+- Sao chép, đóng khung hoặc sao chép bất kỳ phần hoặc nội dung nào của Dịch vụ;
+- Xây dựng một sản phẩm hoặc dịch vụ cạnh tranh hoặc sao chép bất kỳ tính năng hoặc chức năng nào của Dịch vụ;
+- Can thiệp hoặc làm gián đoạn tính toàn vẹn hoặc hiệu suất của Dịch vụ;
+- Cố gắng truy cập trái phép vào Dịch vụ hoặc các hệ thống, mạng liên quan của họ;
+- Xóa, thay đổi hoặc làm mờ bất kỳ thông báo quyền sở hữu nào trong hoặc trên Dịch vụ, kể cả thông báo bản quyền;
+- Gây ra hoặc cho phép bất kỳ bên thứ ba nào thực hiện bất kỳ điều nào ở trên; hoặc can thiệp theo bất kỳ cách nào vào việc sử dụng Dịch vụ của bất kỳ người dùng nào khác.
 
-## Force Majeure ##
-Apix is not responsible for any failure to perform or delay attributable in whole or in part to any cause beyond its reasonable control including, but not limited to, acts of God (fire, storm, floods, earthquakes, etc.), acts of terrorism, civil disturbances, disruption of telecommunications, disruption of power or other essential services, interruption or termination of services provided by any service providers used by Apix, labor disturbances, vandalism, cable cut, computer viruses or other similar occurrences, or any malicious or unlawful acts of any third party.
+## Tài trợ chung và quyền sở hữu ##
 
-# QUESTION #
-If you have any questions regarding the use of the Service, please email Apix at support@apix.vn
+Trừ khi có quy định rõ ràng khác trong các Điều khoản này, (a) tất cả hồ sơ người dùng và thông tin liên hệ của người dùng và (b) tất cả thông tin, tài liệu và nội dung của Dịch vụ, bao gồm văn bản, đồ họa, dữ liệu, định dạng, biểu đồ, thiết kế, HTML, giao diện và cảm nhận, ảnh, nhạc, âm thanh, hình ảnh, phần mềm, video, thiết kế, kiểu chữ, mã nguồn và mã đối tượng, định dạng, truy vấn, thuật toán và nội dung khác (gọi chung là “Tài liệu Apix”) thuộc sở hữu độc quyền của Apix hoặc được sử dụng với sự cho phép. Bạn không được sử dụng hoặc tiết lộ bất kỳ Tài liệu Apix nào mà không có sự đồng ý trước rõ ràng bằng văn bản của Apix.
+Khi bạn đăng, liên kết hoặc cung cấp Nội dung người dùng có sẵn cho Dịch vụ, bạn cấp cho Apix quyền không độc quyền, miễn phí bản quyền, vĩnh viễn, không thể thu hồi và hoàn toàn có thể cấp phép lại để sử dụng, sao chép, sửa đổi, điều chỉnh, xuất bản, dịch, tạo tác phẩm phái sinh từ, phân phối, thực hiện và hiển thị nội dung đó trên khắp thế giới theo bất kỳ cách thức hoặc phương tiện nào trên hoặc ngoài Trang web. Apix bảo lưu mọi quyền không được quy định rõ ràng trong các Điều khoản này.
+
+# CHÍNH SÁCH BẢN QUYỀN #
+
+Người dùng Apix có thể báo cáo nội dung xuất hiện trên/thông qua Trang web hoặc Dịch vụ cho Apix mà họ cho rằng vi phạm các Điều khoản này và Apix có thể xóa nội dung đó, đình chỉ hoặc chấm dứt tài khoản của người dùng đã đăng nội dung đó và/hoặc thực hiện thêm các biện pháp hành động khác để thực thi các Điều khoản này đối với người dùng đó.
+
+# NHẬN XÉT #
+
+Mọi đề xuất, nhận xét hoặc phản hồi khác do bạn cung cấp cho Apix liên quan đến Dịch vụ hoặc Apix (gọi chung là “Phản hồi”) sẽ cấu thành thông tin bí mật của Apix. Apix sẽ được tự do sử dụng, tiết lộ, sao chép, cấp phép cũng như phân phối và khai thác Phản hồi được cung cấp cho Apix khi thấy phù hợp, hoàn toàn không có nghĩa vụ hoặc hạn chế dưới bất kỳ hình thức nào, vì quyền sở hữu trí tuệ hoặc lý do khác.
+
+# LIÊN KẾT #
+
+Bạn được cấp quyền hạn chế, không độc quyền để tạo siêu liên kết văn bản tới Dịch vụ cho các mục đích phi thương mại, miễn là liên kết đó không mô tả Apix hoặc bất kỳ sản phẩm và dịch vụ nào của Apix theo cách sai trái, gây hiểu lầm, xúc phạm hoặc phỉ báng và rằng trang web liên kết không chứa bất kỳ tài liệu nào gây khó chịu, bất hợp pháp, quấy rối hoặc có thể bị phản đối. Quyền hạn chế này có thể bị thu hồi bất cứ lúc nào. Apix không đưa ra khiếu nại hay tuyên bố nào và không chịu trách nhiệm về chất lượng, nội dung, bản chất hoặc độ tin cậy của các trang web bên thứ ba có thể truy cập bằng liên kết từ Dịch vụ hoặc Trang web. Apix chỉ cung cấp các liên kết này cho bạn để tạo thuận tiện và việc bao gồm bất kỳ liên kết nào không ngụ ý về việc Apix liên kết, chứng thực hoặc chấp nhận trang web tương ứng hoặc bất kỳ thông tin nào có trong (hoặc được cung cấp qua) trang web đó. Khi bạn rời khỏi Trang web, các điều khoản và chính sách của Apix sẽ không còn chi phối nữa. Bạn nên xem lại các điều khoản và chính sách hiện hành, bao gồm quyền riêng tư và thực hành thu thập dữ liệu, của bất kỳ trang web nào mà bạn điều hướng từ Trang web.
+
+# NHÃN HIỆU #
+
+Tên, nhãn hiệu, logo và bất kỳ sản phẩm, tên dịch vụ hoặc khẩu hiệu nào khác của Apix có trong Dịch vụ đều là tài sản của Apix và không được sao chép, bắt chước hoặc sử dụng (toàn bộ hoặc một phần) mà không có sự đồng ý trước bằng văn bản của Apix. Giao diện của Dịch vụ và Trang web, bao gồm tất cả đồ họa tùy chỉnh, biểu tượng nút và tập lệnh cấu thành nhãn hiệu dịch vụ, thương hiệu hoặc trang phục thương mại của Apix và không được sao chép, bắt chước hoặc sử dụng (toàn bộ hoặc một phần) mà không có sự đồng ý trước bằng văn bản của Apix. Tất cả các nhãn hiệu khác, nhãn hiệu đã đăng ký, tên sản phẩm và tên công ty hoặc logo được đề cập trong Dịch vụ ("Thương hiệu của bên thứ ba") là tài sản của chủ sở hữu tương ứng và việc sử dụng Nhãn hiệu của bên thứ ba đó mang lại lợi ích cho mỗi bên. người sở hữu. Việc sử dụng Nhãn hiệu của bên thứ ba như vậy nhằm mục đích biểu thị khả năng tương tác và không cấu thành mối liên kết của Apix và người cấp phép của Apix với công ty đó hoặc sự chứng thực hoặc phê duyệt của công ty đó của Apix hoặc người cấp phép của Apix hoặc các sản phẩm hoặc dịch vụ tương ứng của họ
+
+# TẠM NGỪNG HOẶC CHẤM DỨT #
+
+Apix có thể, theo quyết định riêng của mình, đình chỉ hoặc chấm dứt giấy phép truy cập hoặc sử dụng Dịch vụ của bạn bất kỳ lúc nào và vì bất kỳ lý do gì mà không cần thông báo trước. Bạn phải ngừng truy cập hoặc sử dụng Dịch vụ ngay lập tức nếu Apix đình chỉ hoặc chấm dứt giấy phép truy cập hoặc sử dụng Dịch vụ của bạn. Apix bảo lưu quyền, nhưng không thực hiện bất kỳ nghĩa vụ nào, thực hiện hành động pháp lý phù hợp bao gồm cả việc theo đuổi các biện pháp khắc phục dân sự, hình sự hoặc lệnh bắt đối với bạn vì đã tiếp tục sử dụng Dịch vụ trong thời gian tạm ngừng hoặc sau khi chấm dứt. Apix có thể thu hồi phí luật sư hợp lý và chi phí tòa án từ bạn cho những hành động đó. Các Điều khoản này sẽ vẫn có hiệu lực thi hành đối với bạn trong khi giấy phép truy cập hoặc sử dụng Dịch vụ của bạn bị đình chỉ và sau khi giấy phép đó bị chấm dứt. Ngoại trừ giấy phép được cấp cho bạn để truy cập và sử dụng Dịch vụ và tất cả các điều khoản thanh toán, tất cả các điều khoản, điều kiện và hạn chế được quy định trong các Điều khoản này sẽ vẫn tồn tại sau khi các Điều khoản này chấm dứt.
+Nhà cung cấp API và Người tiêu dùng API thừa nhận và đồng ý rằng Apix có thể xóa mọi API hoặc mọi Nội dung/Điều khoản API theo quyết định riêng của Apix.
+Người tiêu dùng API có thể chấm dứt gói đăng ký của mình bất kỳ lúc nào bằng cách chọn Hủy đăng ký từ trang gói API hiện hành. KHÔNG HOÀN LẠI TIỀN SẼ ĐƯỢC BAN HÀNH. 
+
+# TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM #
+
+BẠN CHỈ CHỊU RỦI RO KHI SỬ DỤNG DỊCH VỤ . DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ “NGUYÊN TRẠNG” VÀ “NHƯ CÓ SẴN”. APIX TỪ CHỐI TẤT CẢ CÁC BẢO ĐẢM VÀ TUYÊN BỐ  (RÕ RÀNG HAY NGỤ Ý, BẰNG LỜI HOẶC VĂN BẢN) LIÊN QUAN ĐẾN CÁC ĐIỀU KHOẢN NÀY, DỊCH VỤ, BẤT KỲ API NÀO ĐƯỢC CUNG CẤP QUA DỊCH VỤ, BẤT KỲ NỘI DUNG/ĐIỀU KHOẢN API NÀO, BẤT KỲ NỘI DUNG NGƯỜI DÙNG NÀO, TRANG WEB (BAO GỒM BẤT KỲ THÔNG TIN VÀ NỘI DUNG CÓ SẴN THÔNG QUA TRANG WEB VÀ TÀI LIỆU APIX), CƠ SỞ HẠ TẦNG CỦA BÊN THỨ BA (NHƯ ĐƯỢC ĐỊNH NGHĨA BÊN DƯỚI) VÀ NHÃN HIỆU CỦA BÊN THỨ BA, DÙ ĐƯỢC CỨU PHÁT SINH THEO HOẠT ĐỘNG CỦA LUẬT , THEO LÝ DO TÙY CHỈNH HOẶC SỬ DỤNG TRONG THƯƠNG MẠI, BỞI QUÁ TRÌNH GIAO DỊCH HOẶC CÁCH KHÁC, BAO GỒM BẤT KỲ ĐẢM BẢO NÀO VỀ KHẢ NĂNG BÁN ĐƯỢC, SỰ PHÙ HỢP CHO BẤT KỲ MỤC ĐÍCH NÀO, SỰ KHÔNG VI PHẠM VÀ TÌNH TRẠNG CỦA QUYỀN SỞ HỮU.
+TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT HIỆN HÀNH CHO PHÉP, APIX KHÔNG BẢO ĐẢM VÀ TỪ CHỐI MỌI TRÁCH NHIỆM PHÁP LÝ ĐỐI VỚI (A) TÍNH ĐẦY ĐỦ, CHÍNH XÁC, SẴN SÀNG, KỊP THỜI, BẢO MẬT HOẶC ĐỘ TIN CẬY CỦA DỊCH VỤ, BẤT KỲ API NÀO ĐƯỢC CUNG CẤP QUA DỊCH VỤ, BẤT KỲ NGƯỜI DÙNG NỘI DUNG, TRANG WEB (BAO GỒM BẤT KỲ THÔNG TIN HOẶC NỘI DUNG NÀO CÓ SẴN QUA TRANG WEB), HOẶC NHÃN HIỆU CỦA BÊN THỨ BA; (B) BẤT KỲ TỔN HẠI NÀO ĐỐI VỚI HỆ THỐNG MÁY TÍNH CỦA BẠN, MẤT DỮ LIỆU HOẶC TÁC HẠI KHÁC DO BẠN TRUY CẬP HOẶC SỬ DỤNG DỊCH VỤ VÀ BẤT KỲ API NÀO CÓ SẴN QUA DỊCH VỤ; (C) VIỆC XÓA HOẶC KHÔNG LƯU TRỮ HOẶC TRUYỀN TẢI BẤT KỲ NỘI DUNG NGƯỜI DÙNG VÀ CÁC THÔNG TIN TRUYỀN THÔNG KHÁC ĐƯỢC DỊCH VỤ DUY TRÌ; VÀ (D) DỊCH VỤ SẼ ĐÁP ỨNG CÁC YÊU CẦU CỦA BẠN HAY CÓ SẴN TRÊN CƠ SỞ KHÔNG GIÁN ĐOẠN, AN TOÀN HOẶC KHÔNG CÓ LỖI.
+
+# ĐIỀU KHOẢN KHÁC #
+## Truyền thông điện tử ##
+
+Bằng cách sử dụng Dịch vụ, bạn đồng ý rằng chúng tôi có thể liên lạc với bạn bằng phương tiện điện tử về việc bạn sử dụng Dịch vụ và rằng mọi thông báo, thỏa thuận, tiết lộ hoặc thông tin liên lạc khác mà chúng tôi gửi cho bạn bằng phương tiện điện tử sẽ đáp ứng mọi yêu cầu về thông tin pháp lý, bao gồm cả việc thông tin liên lạc đó phải viết ở dạng điện tử. Để rút lại sự đồng ý của bạn về việc nhận thông báo điện tử, vui lòng thông báo cho chúng tôi tại support@apix.vn
+
+## Tính nghiêm trọng ##
+
+Nếu bất kỳ điều khoản nào trong các Điều khoản này không hợp lệ, bất hợp pháp hoặc không có khả năng được thực thi bởi bất kỳ quy định nào của pháp luật hoặc chính sách công, thì tất cả các điều khoản khác của các Điều khoản này sẽ vẫn có hiệu lực đầy đủ miễn là nội dung kinh tế và pháp lý của các giao dịch được dự tính bởi các Điều khoản này không bị ảnh hưởng theo bất kỳ cách nào bất lợi cho bất kỳ bên nào. Sau khi xác định rằng bất kỳ điều khoản nào là không hợp lệ, bất hợp pháp hoặc không có khả năng thực thi, các bên sẽ thương lượng một cách thiện chí để sửa đổi các Điều khoản này nhằm thực hiện ý định ban đầu của các bên một cách chặt chẽ nhất có thể theo cách có thể chấp nhận được để đạt được mục đích cuối cùng để các giao dịch dự tính ở đây được thực hiện.
+
+## Bất khả kháng ##
+
+Apix không chịu trách nhiệm đối với bất kỳ lỗi nào trong việc thực hiện hoặc chậm trễ do toàn bộ hoặc một phần nguyên nhân nằm ngoài tầm kiểm soát hợp lý của mình, bao gồm nhưng không giới hạn ở các thiên tai (hỏa hoạn, bão, lũ lụt, động đất, v.v.), các hành động khủng bố, xáo trộn dân sự, gián đoạn viễn thông, mất điện hoặc các dịch vụ thiết yếu khác, gián đoạn hoặc chấm dứt dịch vụ được cung cấp bởi bất kỳ nhà cung cấp dịch vụ nào do Apix sử dụng, rối loạn lao động, phá hoại, cắt cáp, vi rút máy tính hoặc các sự cố tương tự khác, hoặc bất kỳ hành vi ác ý hoặc trái pháp luật nào hành vi của bất kỳ bên thứ ba nào.
+
+# CÂU HỎI #
+
+Nếu bạn có bất kỳ câu hỏi nào liên quan đến việc sử dụng Dịch vụ, vui lòng gửi email cho Apix tại support@apix.vn

@@ -1,9 +1,9 @@
 ---
 title: Base URL
 ---
-All API endpoints are relative to a base URL, which is added as a "prefix" to all API endpoints. This approach avoids the need to always define absolute URLs for endpoints, and increases API portability by simply changing the base URL. This base URL is where APIX will route requests.
+Tất cả các điểm cuối API đều có liên quan đến Base URL, URL này được thêm dưới dạng "tiền tố" cho tất cả các điểm cuối API. Cách tiếp cận này tránh nhu cầu luôn xác định URL tuyệt đối cho điểm cuối và tăng tính di động của API bằng cách chỉ cần thay đổi Base URL. Base URL này là nơi APIX sẽ định tuyến các yêu cầu.
 
-To start configuring the endpoints, you first need to set up the **Base URL**. **Base URL** will make it easier to add and edit your endpoints. For example if you have following API Endpoints:
+Để bắt đầu cấu hình các endpoint, trước tiên bạn cần thiết lập Base URL. Base URL sẽ giúp việc thêm và chỉnh sửa endpoint của bạn dễ dàng hơn. Ví dụ bạn có các API Endpoint: 
 
 ```
 https://example.com/api/ep1/read
@@ -11,11 +11,12 @@ https://example.com/api/ep1/get
 https://example.com/api/ep2/read
 ```
 
-you can configure your Base URL as
+khi đó bạn có thể cấu hình Base URL là
 
 ```
 https://example.com/api
 ```
+
 <div class="text--center"><img src="/img/screenshot/listing_api_base_url_1.png"  width="100%" height="100%"></img></div>
 
-You can update your base URL from this page at any time.
+Bạn có thể cập nhật **Base URL** của mình từ trang này bất kỳ lúc nào.

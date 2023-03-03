@@ -2,39 +2,39 @@
 title: VNPay
 ---
 
-First, click on the preferred payment method.
+Đầu tiên, nhấp vào phương thức thanh toán ưa thích.
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.1.png"  width="70%" height="70%"></img></div>
 
 ### VNPay QR ###
 <!-- <div class="text--center"><img src="/img/Banner/vnpay.webp"  width="40%" height="40%"></img></div> -->
 
-If you choose to pay with VNPay QR, the screen will display order information and QR code for payment.
+Nếu chọn thanh toán bằng VNPay QR, màn hình sẽ hiển thị thông tin đơn hàng và mã QR để thanh toán.
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.2.png"  width="70%" height="70%"></img></div>
 
 
-Open your Mobile Banking application and scan the QR code displayed on the screen to continue to complete the payment.
+Mở ứng dụng Mobile Banking và quét mã QR hiển thị trên màn hình để tiếp tục hoàn tất thanh toán.
 
 ### Domestic card and bank account ###
-If you choose to pay by “Domestic card and bank account”, the screen will display all VNPay partnered banks. Choose the one applicable to you.
+Nếu chọn thanh toán bằng “Thẻ nội địa và tài khoản ngân hàng”, màn hình sẽ hiển thị tất cả các ngân hàng đối tác của VNPay. Chọn một trong những áp dụng cho bạn.
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.3.png"  width="70%" height="70%"></img></div>
 
-Fill in the required information, then **Continue**.
+Điền thông tin cần thiết, sau đó **Tiếp tục**.
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.4.png"  width="70%" height="70%"></img></div>
 
 ### International credit card ###
-If you choose to pay with an international credit card, the screen will show the accepted international cards. Select the type of card applicable to you.
+Nếu bạn chọn thanh toán bằng thẻ tín dụng quốc tế, màn hình sẽ hiển thị các loại thẻ quốc tế được chấp nhận. Chọn loại thẻ áp dụng cho bạn.
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.5.png"  width="70%" height="70%"></img></div>>
 
-Fill in the required card information and continue to complete the transaction
+Điền các thông tin thẻ được yêu cầu và tiếp tục hoàn tất giao dịch
 
 ### VNPay e-wallet ###
-If you choose to pay via VNPay e-wallet, the screen will display order information and QR code for payment
+Nếu chọn thanh toán qua Ví điện tử VNPay, màn hình sẽ hiển thị thông tin đơn hàng và mã QR để thanh toán
 
 <div class="text--center"><img src="/img/screenshot/deposit_step2.4.2.png"  width="70%" height="70%"></img></div>
 
-Open your Mobile Banking application and scan the QR code displayed on the screen to continue to complete the payment.
+Mở ứng dụng Mobile Banking và quét mã QR hiển thị trên màn hình để tiếp tục hoàn tất thanh toán.
