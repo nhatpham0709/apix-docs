@@ -1,14 +1,14 @@
 {
   "item.label.General": {
-    "message": "General",
+    "message": "Tổng quan",
     "description": "Navbar item with label General"
   },
   "item.label.Consumer": {
-    "message": "Consumer",
+    "message": "Người mua",
     "description": "Navbar item with label Consumer"
   },
   "item.label.Provider": {
-    "message": "Provider",
+    "message": "Nhà cung cấp",
     "description": "Navbar item with label Provider"
   }
 }

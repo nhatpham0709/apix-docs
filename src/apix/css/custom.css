@@ -28,7 +28,6 @@ html {
 
 .dropdown__label,
 .footer__title {
-  font-family: 'Metropolis Bold';
   font-size: 0.8rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
@@ -230,7 +229,6 @@ html {
 }
 
 .navbar__item {
-  font-family: 'Metropolis Semi Bold';
   font-size: 0.9rem;
   letter-spacing: 1px;
 }

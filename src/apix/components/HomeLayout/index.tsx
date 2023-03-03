@@ -64,7 +64,7 @@ export default function HomeLayout() {
     <Layout description={siteConfig.tagline}>
       <div className='homepage'>
         <FeaturedSlider />
-        <HomepageSection header='Use APIX'>
+        {/* <HomepageSection header='Use APIX'>
           <div className='about__cards'>
             <Link
               to='learn/about-iota/an-introduction-to-iota'
@@ -291,7 +291,7 @@ export default function HomeLayout() {
               </div>
             </Link>
           </div>
-        </HomepageSection>
+        </HomepageSection> */}
       </div>
     </Layout>
   );

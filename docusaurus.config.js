@@ -1,11 +1,11 @@
 const path = require('path');
 
 const common = module.exports = {
-  url: 'https://wiki.iota.org',
+  url: 'https://docs.apix.vn',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'vi',
     locales: ['en', 'vi'],
   },
   favicon: 'img/favicon.ico',
@@ -38,7 +38,15 @@ const common = module.exports = {
       additionalLanguages: ['java', 'rust', 'solidity', 'toml'],
     },
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
+    },
+    navbar: {
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+      ],
     },
   },
   plugins: [

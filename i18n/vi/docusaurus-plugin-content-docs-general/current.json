@@ -2,5 +2,13 @@
   "version.label": {
     "message": "Next",
     "description": "The label for version current"
+  },
+  "sidebar.general.category.Introduction": {
+    "message": "Giới thiệu",
+    "description": "The label for category Introduction in sidebar general"
+  },
+  "sidebar.general.category.Deposit": {
+    "message": "Nạp tiền",
+    "description": "The label for category Deposit in sidebar general"
   }
 }

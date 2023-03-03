@@ -3,20 +3,8 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.consumer.category.Marketplace": {
-    "message": "Marketplace",
-    "description": "The label for category Marketplace in sidebar consumer"
-  },
-  "sidebar.consumer.category.API": {
-    "message": "API",
-    "description": "The label for category API in sidebar consumer"
-  },
-  "sidebar.consumer.category.Dataset": {
-    "message": "Dataset",
-    "description": "The label for category Dataset in sidebar consumer"
-  },
-  "sidebar.consumer.category.Account Management": {
-    "message": "Account Management",
-    "description": "The label for category Account Management in sidebar consumer"
+  "sidebar.consumer.category.Usage": {
+    "message": "Usage",
+    "description": "The label for category Usage in sidebar consumer"
   }
 }
