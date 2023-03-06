@@ -7,6 +7,7 @@ module.exports = {
       items: [
         'introduction/what-is-apix',
         'introduction/legal',
+        'introduction/privacy',
       ],
     },
     {
