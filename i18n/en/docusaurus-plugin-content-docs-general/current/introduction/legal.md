@@ -2,123 +2,126 @@
 title: Terms of Services
 ---
 
-## Welcome to Apix ##
-These terms of service (these “Terms”) apply to the API marketplace/network and other products and services (collectively, the “Service”) provided by Apix via apix.vn.
+# GENERAL TERMS
 
-By registering to use the Service, accessing the Service or providing access to any APIs via the Service, you agree and acknowledge that you have read all of the terms and conditions of these Terms, you understand all of the terms and conditions of these Terms, and you agree to be legally bound by all of the terms and conditions of these Terms.
+Apply to Partners operating on the Apix.vn system
 
-These Terms apply to individuals and entities that provide access to APIs via the Service (“API Providers”) and individuals and entities that obtain access to APIs via the Service (“API Consumers”). Unless otherwise specified, “you” refers to both API Providers and API Consumers.
+These General Terms (hereinafter referred to as "General Terms") issued by Apix.vn (hereinafter referred to as "Apix") regulate the rights and obligations of partners operating on the Apix.vn system (hereinafter referred to as "Partner").
 
-The “Effective Date” of these Terms is the date you first access the Service.
+## SECTION I. PARTNERSHIP
 
-Apix reserves the right to change or modify any of the terms and conditions contained in these Terms (or any policy or guideline of Apix) at any time and in its sole discretion by providing notice that these Terms have been modified. Such notice may be provided by sending an email, posting a notice on the Site, posting the revised Terms on the Site and revising the date at the top of these Terms, or such other form of notice as determined by Apix. Any changes or modifications will be effective 7 days after providing notice that these Terms have been modified (the “Notice Period”). Your continued use of the Service following the Notice Period will constitute your acceptance of such changes or modifications. You are advised to review these Terms whenever you access the Service and at least every 30 days to make sure that you understand the terms and conditions that will apply to your use of the Service.
+Partners operating on the Apix.vn system include but are not limited to: Individuals/organizations wishing to access and use APIs on Apix.vn.
 
-# PRIVACY #
-For information about how we collect, use and share information about users of the Service, please see our Privacy Policy.
+## SECTION II. FORM OF COOPERATION
 
-# SERVICE AND REGISTRATION #
-## Service ##
-Apix’s API marketplace/network connects API Providers and API Consumers. The Service enables API Providers to list the APIs they offer for purchase by API Consumers. Each API offering includes a description of the API, its associated price, and other related terms and conditions. API Consumers may purchase the right to use an API on an individual basis or as part of a subscription plan.
+Partners can choose from the following types of cooperation with Apix:
 
-Apix grants to you a non-exclusive, non-transferable, non-sublicensable, revocable, and limited license to access and use the Service subject to the terms and conditions set forth in these Terms.
+- Buy according to the API package listed on Apix.vn
+- Renew packages that have been used on the system
+- Buy according to the recommended packages directly through Apix.vn
 
-## Registration ##
-In order to access the Service, API Providers and API Consumers must register with Apix by completing the registration forms provided via the Site. You agree to (a) provide accurate, current, and complete information as may be prompted by the registration forms via the Site (“Registration Data”), (b) maintain the security of your Apix account password, (c) maintain and promptly update the Registration Data, and any other information you provide to Apix, to keep it accurate, current, and complete and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to Apix.
+## SECTION III. TERMS OF COOPERATION
 
-You are responsible for safeguarding the passwords you use to access the Service and agree to be fully responsible for activities or transactions that relate to your Apix account or password. You must notify Apix immediately if you learn of an unauthorized use of your Apix account or password.
+### ARTICLE 1. SCOPE OF COOPERATION
 
-## API Rights — Between API Providers and API Consumers (not APIX) ##
+1. By signing these General Terms, the Partner agrees to become an active member on the Apix.vn system, using APIs in the forms in accordance with the provisions of Vietnamese law.
+2. Apix is acknowledged as the owner or licensed to use the services/products posted on the Apix.vn website including trademarks, domain names, logos and all specifications & features of that service/product.
+3. The Parties agree that all ownership rights in the brand identity, website’s domain name are the sole property of Apix and Apix does not allow the Partner or any third party to have the right to reproduce copy, interfere with, or damage part or all of the features or the nature of the service in any way without Apix's written consent.
+4. These general terms shall not establish any agency, association, or other binding relationship between the Parties outside the scope of cooperation stated above
 
-** Apix provides the marketplace, but the terms and conditions applicable to the APIs (including, the use of the APIs) are between API Providers and API Consumers (not Apix). **
+### ARTICLE 2. TERM OF COOPERATION
 
-With respect to each API, API Consumers and the API Provider who listed such API via the Service acknowledge and agree that the terms and conditions applicable to the use of and other rights with respect to such API by each such API Consumer are solely between each such API Consumer and such API Provider, and not with Apix. Each API Provider (not Apix) is responsible for all support and all claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement).
+The term of cooperation between the Parties is established from the date the Partner confirms agreement to the provisions of these General Terms and is approved to become a member on the Apix.vn system to the date:
 
-Apix reserves the right, but does not have the obligation, to review, screen, or monitor any links to any APIs or any API Content/Terms (as defined below) at any time and for any reason without notice. API Providers and API Consumers acknowledge and agree that Apix may remove any API or any API Content/Terms at Apix’s sole discretion.
+- Partner's account on Apix.vn system is locked or temporarily not allowed to operate; or
+- Apix system no longer works
 
-## API Provider ##
-### API Provider – Grants and Obligations ###
-API Providers may APIs via the Service by completing Apix’s listing form.
+### ARTICLE 3. ACCOUNT REGISTRATION
 
-For each API, API Providers must provide the URLs applicable to such API on the API Provider’s websites (“API Provider Sites”), a brief description of the API, the API pricing parameters (free use, unique object pricing, or subscription), any overage fees and any other applicable terms and conditions (e.g., service level standards) (collectively, “API Content/Terms”).
+1. To operate on the Apix.vn system, the Partner must register to create an online account with a username and password (hereinafter referred to as "Account").
+2. The Partner commits to use the most recent, accurate and complete information for the Registered Account and promptly update the information when there is any change. Apix is exempt from liability arising from incorrect and/or not updated information on the Partner's account.
+   Information required for account registration:
 
-API Provider grants Apix the right to provide the APIs and the API Content/Terms provided by API Provider (or a party on its behalf) via the Service. Further, API Provider consents to Apix’s use of its name and, if applicable, API Provider’s company’s name and logo on the Site and our publicly-available online and printed materials, identifying API Provider (and, if applicable, API Provider’s company) as part of the Apix API network.
+- Email
+- Log-in ID
+- Full name
+- Phone number
+- Password
 
-API Provider, not Apix, is responsible for monitoring and enforcing the API Content/Terms applicable to each API to which it grants an API Consumer access. API Provider acknowledges and agrees that Apix will not be liable for any actual or alleged breach of the terms and conditions governing the use of APIs by API Consumer (or any damages arising from or related to such actual or alleged breach).
+3. The Partner's successful account registration also means the Partner has read and accepted these General Terms.
+4. The Partner is obligated to keep the Account safe and confidential, any login to the website through the Account is considered an action of the Partner.
+5. The account will not be widely disseminated, transferred or transferred in any way. In case of suspicion of a third party using the Account, the Partner must notify Apix for assistance in handling.
+6. Information about the Partner will be kept confidential by Apix, and considered as Confidential Information of Apix
 
-API Provider represents and warrants that (a) all representations and warranties made by API Provider with respect to the APIs it lists via the Service are true and accurate; and (b) it owns (or has full rights to) to market, promote, offer to sell, sell, grants access to, and distribute the APIs it lists via the Service and all API Content/Terms posted to the Service.
+### ARTICLE 4. PARTNER'S RESPONSIBILITIES
 
-In the event Apix provides API Consumer email addresses or other contract information to an API Provider, such API Provider may use such email addresses or other contact information solely to provide API Provider’s APIs to API Consumer in connection with the Service. In no event may API Provider bypass Apix’s billing, management, marketplace or Service and/or use any information obtained via Apix, the Service or the Site (including, but not limited to, any API Consumer email addresses or other contract information) for any purpose other than expressly authorized in these Terms. For example, API Provider may not use any API Consumer email addresses or other contract information to solicit API Consumers or other users to leave the Service or obtain APIs directly via API Providers or any non-Apix source.
+1. Partners by accessing, paying and using APIs on Apix.vn are obliged to comply with the security policies and agreed scope of cooperation.
+2. The partner shall coordinate in verifying and verifying data and making payments in accordance with these General Terms on the basis of data exported from Apix's system.
+3. The Partner shall not use prohibited forms of advertising, advertising materials that violate the Intellectual Property Law or illegally use images, sounds or promotional materials of any other third parties.
+4. Partner implements confidentiality of information related to the Account created.
+5. The Partner understands and agrees that during the operation, there are times when the Apix.vn system may not be accessible, or not function properly due to reasons, including but not limited to: (i) system error; or (ii) routine maintenance; or (iii) events beyond Apix's control that cannot be foreseen such as widespread network failures, hackers.... Then the Partner agrees not to have any claims or pursue litigation against Apix.
+6. The Partner commits that the Partner's media, such as Website, Fanpage, Blog… (i) do not violate or contain content that violates the law, customs, fine traditions, violence, or make a bad impression on users; (ii) stable operation, meeting technical requirements; (iii) be able to connect to the Apix.vn system; (iv) does not contain directly or indirectly harmful sources such as viruses, spam, etc. that affect Apix's system and users.
+7. Partners do not arbitrarily post advertising materials related to Apix without Apix's consent. Apix is exempt from related obligations when there is any claim, claim, or dispute from a third party due to the Partner's violation of the content of this article.
+8. Partner commits not to commit any fraudulent acts during operation. Apix reserves the right to store the entire history of the Partner's activities and perform periodic inspection and review. In case of detecting violations, Apix has the right to apply fraud handling measures as prescribed in Article 5 below.
 
-### API Provider – Payments ###
-Apix collects subscription fees and other payments associated with API Consumers’ access and use of APIs provide by API Providers via the Service (“API Fees”). Following Apix’s receipt of the API Fees applicable to an API listed on the Service by an API Provider, Apix will passed on such amount to the applicable API Provider less a Apix transaction fee. API Providers are paid on a monthly basis in arrears via the Service. Notwithstanding any terms to the contrary in these Terms, API Providers acknowledge and agree that Apix will use reasonable effort to collect API Fees, but Apix is not responsible for any failure to collect API Fees (including, but not limited to, any damages that arise out of, result from, are attributable to or are in any way incidental to such failure).
+### ARTICLE 5. HANDLING OF FRAUD
 
-Apix, at its sole discretion, may modify its transaction fee with no less than 7 days advance notice.
+1. Types of fraud
+   The intentional use of unauthorized tools, or the violation of Apix's rules for the purpose of using APIs, or unauthorized interference with Apix's systems, is considered fraud.
+   Except as expressly permitted by these Terms, you may not:
 
-## API Consumer ##
-### API Consumer – Subscription Packages ###
-API Consumer may browse listed APIs and subscribe to access and use APIs pursuant to one of the Apix API subscription plans selected by API Consumer. Depending on a particular API offering, API Consumer may also be able to arrange custom pricing and service directly with an API Provider.
+- Modify, disclose, alter, translate or create derivative works of the Service (or any component of the Service);
+- License, sublicense, resell, distribute, lease, rent, lend, assign, transfer or otherwise dispose of the Service (or any component thereof);
+- Disassemble, decompile or reverse engineer software components of the Service;
+- Use the Service to store or transmit infringing, libelous or illegal or misleading material, or to store or transmit material that violates the privacy of a third party;
+- Use the Service to host or transmit any virus, software process, or other code designed to allow unauthorized access, disable, delete, or harm software, hardware, or data or to perform any other harmful action;
+- Copy, frame or reproduce any part or content of the Service;
+- Build a competing product or service or copy any feature or functionality of the Service;
+- Interferes with or disrupts the integrity or performance of the Services;
+- Attempts to gain unauthorized access to the Service or their related systems or networks;
+- Remove, change or obscure any proprietary rights notices in or on the Service, including copyright notices;
+- Cause or allow any third party to do any of the above; or interfere in any way with any other user's use of the Service.
 
-Unless otherwise expressly set forth in the Apix subscription plan selected by an API Consumer, Apix subscription plans will automatically renew for additional periods equivalent in length to the initial Apix subscription period selected by such API Consumer. Each API Consumer may change the type of Apix subscription plan selected or terminate the Apix subscription plan according to the terms and conditions of such subscription plan.
+2. Fraud handling
+   In the event that Apix detects fraud from a Partner, Apix is entitled to:
 
-### API Consumer – Fees ###
-The pricing terms for each API Consumer’s access and use of APIs are set forth in the Apix subscription plan selected by such API Consumer (unless the API is not being purchased pursuant to a Apix subscription plan). All payments must be made in VND by credit or debit card via an authorized Apix payment processor.
+- Stop cooperating;
+- Lock account.
+- Claim compensation when damage to the system occurs
 
-## User Content ##
-Apix reserves the right, but does not have the obligation, to remove, screen, or edit any content, links, comments or materials posted or stored on the Service, including API Content/Terms (collectively, “User Content”) at any time and for any reason without notice. You will not (and will not allow or authorize any third-party to) post, upload to, transmit, distribute, store, create, solicit, disclose, or otherwise publish through the Service any User Content that is restricted by these Terms.
+### ARTICLE 6. RECONCILIATION AND PAYMENT
 
-## Restrictions ##
-Except as expressly authorized by these Terms, you may not:
-- Modify, disclose, alter, translate, or create derivative works the Service (or any components thereof);
-- License, sublicense, resell, distribute, lease, rent, lend, transfer, assign, or otherwise dispose of the Service (or any components thereof);
-- Disassemble, decompile, or reverse engineer the software components of the Service;
-- Use the Service to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights;
-- Use the Service to store or transmit any viruses, software routines or other code designed to permit unauthorized access, disable, erase, or otherwise harm software, hardware, or data, or to perform any other harmful actions;
-- Copy, frame, or mirror any part or content of the Service;
-- Build a competitive product or service, or copy any features or functions of the Service;
-- Interfere with or disrupt the integrity or performance of the Service;
-- Attempt to gain unauthorized access to the Service or their related systems or networks;
-- Remove, alter, or obscure any proprietary notices in or on the Service including copyright notices;
-- Cause or permit any third-party to do any of the foregoing; or
-- Interfere in any manner with the enjoyment of the Service of any other user.
+1. Reconciliation
+   Apix provides an online reporting system for partners on Apix.vn.
+   Through the Registered Account, the Partner directly monitors the purchased packages and the usable quota in the packages
+   Partners can track account balance as well as the amount deposited on Apix's system.
+2. Reconciliation time
+   Apix will reconcile for Partners and issue invoices on every last day of the month.
+3. Tax Regulations
+   Apix makes a deduction of 10% from the Partner's total paid revenue in accordance with the Law.
 
-## General Grant and Ownership ##
-Unless otherwise expressly indicated in these Terms, (a) all user profiles and user contact information, and (b) all information, materials, and content of the Service, including text, graphics, data, formatting, graphs, designs, HTML, look and feel, photographs, music, sounds, images, software, videos, designs, typefaces, source and object code, format, queries, algorithms, and other content (collectively, “Apix Materials”) are exclusively owned by Apix or are used with permission. You may not use or disclose any of the Apix Materials without Apix’s express prior written consent.
+### ARTICLE 7. SECURITY, NON-COMPETITION AND OTHER REGULATIONS
 
-When you post, link, or otherwise make available User Content to the Service, you grant Apix a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content throughout the world in any manner or media on or off the Site. Apix reserves all rights not expressly set forth in these Terms.
+1. During the cooperation, the Partner recognizes that the Partner has access to Apix's Confidential Information, so the Partner is obliged to respect and use the information properly.
+2. Partner agrees and acknowledges that Partner will not use Apix Confidential Information for personal gain and will always keep these information confidential. The Partner will not use, disclose, publish, transfer or provide information to any third party in any way other than for the purpose of serving the content of cooperation between the Parties.
+3. The provisions of this article also apply to all individuals who have rights and obligations related to the implementation of the scope of cooperation including managers, advisors, relevant Partner departments and human resources who do the work directly.
 
-# COPYRIGHT POLICY #
-Apix users may report content that appears on/via the Site or Service to Apix that he/she thinks violates these Terms, and Apix may remove such content, suspend or terminate the account of the user who made posted such content and/or take additional action to enforce these Terms against such user.
+ARTICLE 8. DISCLAIMER OF US LIABILITY
+In any event, Apix is not responsible for any claims or claims of any third party related to the Partner's activities during the implementation of the API usage. Obligations arising to third parties in connection with the Partner's activities are the sole responsibility of the Partner.
 
-# FEEDBACK #
-Any suggestions, comments, or other feedback provided by you to Apix with respect to the Service or Apix (collectively, “Feedback”) will constitute confidential information of Apix. Apix will be free to use, disclose, reproduce, license, and otherwise distribute and exploit the Feedback provided to it as it sees fit, entirely without obligation or restriction of any kind, on account of intellectual property rights or otherwise.
+### ARTICLE 9. TERMINATION OF COOPERATION
 
-# LINKS #
-You are granted a limited, non-exclusive right to create a text hyperlink to the Service for noncommercial purposes, provided such link does not portray Apix or any of its products and services in a false, misleading, derogatory, or defamatory manner and that the linking site does not contain any material that is offensive, illegal, harassing, or otherwise objectionable. This limited right may be revoked at any time. Apix makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature, or reliability of third-party sites accessible by link from the Service or Site. Apix provides these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by Apix of the corresponding site or any information contained in (or made available via) that site. When you leave the Site, Apix’s terms and policies no longer govern. You should review the applicable terms and policies, including privacy and data-gathering practices, of any site to which you navigate from the Site.
+Cooperation between the Parties will terminate in the following
+cases:
 
-# TRADEMARKS #
-Apix’s name, trademarks, logos, and any other Apix product, service name, or slogan included in the Service are property of Apix and may not be copied, imitated, or used (in whole or in part) without Apix’s prior written consent. The look and feel of the Service and the Site, including all custom graphics, button icons, and scripts constitute service marks, trademarks, or trade dress of Apix and may not be copied, imitated, or used (in whole or in part) without Apix’s prior written consent. All other trademarks, registered trademarks, product names, and company names or logos mentioned in the Service (“Third-Party Trademarks”) are the property of their respective owners, and the use of such Third-Party Trademarks inures to the benefit of each owner. The use of such Third-Party Trademarks is intended to denote interoperability and does not constitute an affiliation by Apix and its licensors with such company or an endorsement or approval by such company of Apix or its licensors or their respective products or services.
+1. The Parties agree to terminate cooperation;
+2. A Party is dissolved or bankrupt;
+3. Force majeure circumstances occur resulting in a Party unable to continue to perform its obligations for a period of 03 consecutive months despite having tried as best as possible to remedy it;
+4. If the Partner violates the provisions of the General Terms and does not complete the repair and remedy the violation within the time limit that Apix notices to the Partner. In this case, the Partner must indemnify Apix for all actual and direct damages.
 
-# SUSPENSION OR TERMINATION #
-Apix may, at its sole discretion, suspend or terminate your license to access or use the Service at any time and for any reason without notice. You must stop accessing or using the Service immediately if Apix suspends or terminates your license to access or use the Service. Apix reserves the right, but does not undertake any duty, to take appropriate legal action including the pursuit of civil, criminal, or injunctive redress against you for continuing to use the Service during suspension or after termination. Apix may recover its reasonable attorneys’ fees and court costs from you for such actions. These Terms will remain enforceable against you while your license to access or use the Service is suspended and after it is terminated. Except for the license granted to you to access and use the Service and all payment terms, all of the terms, conditions, and restrictions set forth in these Terms will survive the termination of these Terms.
+### ARTICLE 10. OTHER TERMS
 
-API Providers and API Consumers acknowledge and agree that Apix may remove any API or any API Content/Terms at Apix’s sole discretion.
-
-API Consumer may terminate its subscription plan at any time by selecting Unsubscribe from the applicable API plan page. NO REFUNDS WILL BE ISSUED.
-
-# DISCLAIMER #
-YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. APIX DISCLAIMS ALL WARRANTIES AND REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THESE TERMS, THE SERVICE, ANY OF THE APIS PROVIDED VIA THE SERVICE, ANY API CONTENT/TERMS, ANY USER CONTENT, THE SITE (INCLUDING ANY INFORMATION AND CONTENT MADE AVAILABLE VIA THE SITE AND THE APIX MATERIALS), THIRD-PARTY INFRASTRUCTURE (AS DEFINED BELOW) AND THIRD-PARTY TRADEMARKS, WHETHER ALLEGED TO ARISE BY OPERATION OF LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, BY COURSE OF DEALING OR OTHERWISE, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PURPOSE, NON-INFRINGEMENT, AND CONDITION OF TITLE.
-
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, APIX DOES NOT WARRANT, AND DISCLAIMS ALL LIABILITY FOR (A) THE COMPLETENESS, ACCURACY, AVAILABILITY, TIMELINESS, SECURITY, OR RELIABILITY OF THE SERVICE, ANY OF THE APIS PROVIDED VIA THE SERVICE, ANY USER CONTENT, THE SITE (INCLUDING ANY INFORMATION OR CONTENT MADE AVAILABLE VIA THE SITE), OR THIRD-PARTY TRADEMARKS; (B) ANY HARM TO YOUR COMPUTER SYSTEM, LOSS OF DATA, OR OTHER HARM THAT RESULTS FROM YOUR ACCESS TO OR USE OF THE SERVICE AND ANY API MADE AVAILABLE VIA THE SERVICE; (C) THE DELETION OF, OR THE FAILURE TO STORE OR TRANSMIT, ANY USER CONTENT AND OTHER COMMUNICATIONS MAINTAINED BY THE SERVICE; AND (D) WHETHER THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
-
-# MISCELLANEOUS #
-## Electronic Communications ##
-By using the Service, you agree that we may communicate with you electronically regarding your use of the Service and that any notices, agreements, disclosures or other communications that we send to you electronically will satisfy any legal communication requirements, including that the communications be in writing. To withdraw your consent from receiving electronic notice, please notify us at support@apix.vn
-
-## Severability ##
-If any provision of these Terms is invalid, illegal, or incapable of being enforced by any rule of law or public policy, all other provisions of these Terms will nonetheless remain in full force and effect so long as the economic and legal substance of the transactions contemplated by these Terms is not affected in any manner adverse to any party. Upon such determination that any provision is invalid, illegal, or incapable of being enforced, the parties will negotiate in good faith to modify these Terms so as to effect the original intent of the parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled.
-
-## Force Majeure ##
-Apix is not responsible for any failure to perform or delay attributable in whole or in part to any cause beyond its reasonable control including, but not limited to, acts of God (fire, storm, floods, earthquakes, etc.), acts of terrorism, civil disturbances, disruption of telecommunications, disruption of power or other essential services, interruption or termination of services provided by any service providers used by Apix, labor disturbances, vandalism, cable cut, computer viruses or other similar occurrences, or any malicious or unlawful acts of any third party.
-
-# QUESTION #
-If you have any questions regarding the use of the Service, please email Apix at support@apix.vn
+1. The provisions of these General Terms are governed by the laws of Vietnam.
+2. Any dispute arising in the course of cooperation will first be resolved through negotiation between the Parties. If the settlement cannot be reached by negotiation or conciliation, a Party has the right to bring the dispute to a competent court in Vietnam.
+3. This general provision is still valid in case one of the Parties has a change in personnel or management structure (dividing, splitting, merging, merging, transforming).
+4. Apix has the full right, at its own discretion, to amend and supplement these General Terms to suit the business situation and current regulations of law.
